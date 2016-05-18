@@ -1,7 +1,4 @@
 ## Chapter 1 Intro
-
-# Brew {#brew}
-
 Chocolate Brown Ale - [Brewery Pouch](http://mangrovejacks.com/collections/craft-series-brewery-pouch/products/mangrove-jacks-craft-series-nut-brown-ale-pouch)
 
 **Initial temp (pre yeast):** 26 degrees
