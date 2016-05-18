@@ -9,5 +9,5 @@
    * [Section 2](chapter2/section2.md)
 * [example](example.md)
 * [example2](example2.md)
-* Chocolate Brown Ale
+* [Chocolate Brown Ale](chocolate_brown_ale.md)
 
