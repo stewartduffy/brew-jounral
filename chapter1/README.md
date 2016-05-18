@@ -5,7 +5,7 @@
 **Initial gravity: 34**
 
 **Ingredients:**
-* Chocolate Brown Ale [Craft Series Brewery Pouch](http://mangrovejacks.com/collections/craft-series-brewery-pouch/products/mangrove-jacks-craft-series-nut-brown-ale-pouch)
+* [Craft Series Brewery Pouch: Chocolate Brown Ale](http://mangrovejacks.com/collections/craft-series-brewery-pouch/products/mangrove-jacks-craft-series-nut-brown-ale-pouch)
 
 **Instructions:**
 * 2 x Jugs boiling water
