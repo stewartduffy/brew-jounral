@@ -1,1 +1,56 @@
 ## Chapter 1 Intro
+
+# Brew {#brew}
+
+Chocolate Brown Ale - [Brewery Pouch](http://mangrovejacks.com/collections/craft-series-brewery-pouch/products/mangrove-jacks-craft-series-nut-brown-ale-pouch)
+
+**Initial temp (pre yeast):** 26 degrees
+
+**Initial gravity: 34**
+
+**Instructions:**
+
+* 2 x Jugs boiling water
+* 2 x litres fridge cold water
+* 1 x tray of Ice
+* 1 x Jug ice + water
+* Tap water up to 23 litres
+
+**Equipment:**
+
+* Glad wrap to cover bench
+* fish bin
+* spoon
+* air lock
+* fermenter
+* kettle
+* big pot
+* 2 x Measuring jugs
+
+**No brew enhancer!!**
+
+**Notes:**
+
+A few mistakes here. Didn’t have all the gear out & ready (big pot, other measuring jug), which made me have to rush.
+
+Added too much boiling water, and I could not get beer below 26 degrees.
+
+Forgot to buy / add brew enhancer?
+
+Next time - more cold water, maybe ice bath.
+
+**Progress:**
+
+Monday: 26 degrees
+
+Added to bath
+
+Tuesday: 24 degrees
+
+Wednesday: 22 degrees
+
+…
+
+Monday: 20 degrees / SG: 1.014
+
+Wednesday: 18 degrees / SG: 1.016
