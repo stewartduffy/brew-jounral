@@ -1,4 +1,4 @@
-## Chocolate Brown Ale: ([Brewery Pouch](http://mangrovejacks.com/collections/craft-series-brewery-pouch/products/mangrove-jacks-craft-series-nut-brown-ale-pouch))
+## Chocolate Brown Ale
 
 **Initial temp (pre yeast):** 26 degrees
 
