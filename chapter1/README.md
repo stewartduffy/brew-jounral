@@ -6,7 +6,6 @@ Chocolate Brown Ale - [Brewery Pouch](http://mangrovejacks.com/collections/craft
 **Initial gravity: 34**
 
 **Instructions:**
-
 * 2 x Jugs boiling water
 * 2 x litres fridge cold water
 * 1 x tray of Ice
@@ -24,17 +23,13 @@ Chocolate Brown Ale - [Brewery Pouch](http://mangrovejacks.com/collections/craft
 * big pot
 * 2 x Measuring jugs
 
-**No brew enhancer!!**
 
 **Notes:**
-
-A few mistakes here. Didn’t have all the gear out & ready (big pot, other measuring jug), which made me have to rush.
-
-Added too much boiling water, and I could not get beer below 26 degrees.
-
-Forgot to buy / add brew enhancer?
-
-Next time - more cold water, maybe ice bath.
+* A few mistakes here. Didn’t have all the gear out & ready (big pot, other measuring jug), which made me have to rush.
+* Added too much boiling water, and I could not get beer below 26 degrees.
+* Forgot to buy / add brew enhancer?
+* Next time - more cold water, maybe ice bath.
+* **No brew enhancer!!**
 
 **Progress:**
 
