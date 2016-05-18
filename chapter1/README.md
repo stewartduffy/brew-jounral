@@ -37,8 +37,8 @@
 
 Monday: 26 degrees
 
-Added to bath
-
+**Added to bath
+**
 Tuesday: 24 degrees
 
 Wednesday: 22 degrees
