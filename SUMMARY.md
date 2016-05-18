@@ -10,4 +10,5 @@
    * [Section 2](chapter2/section2.md)
 * [example](example.md)
 * [example2](example2.md)
+* Brew #02: Chocolate Brown Ale
 
