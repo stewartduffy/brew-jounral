@@ -27,7 +27,7 @@
 
 
 **Notes:**
-* A few mistakes here. Didn’t have all the gear out & ready (big pot, other measuring jug), which made me have to rush.
+* A few mistakes here. Didn't have all the gear out & ready (big pot, other measuring jug), which made me have to rush.
 * Added too much boiling water, and I could not get beer below 26 degrees.
 * Forgot to buy / add brew enhancer?
 * Next time - more cold water, maybe ice bath.
