@@ -43,7 +43,7 @@ I'm not going to re-write gitbook documentation.  If I wanted to add / edit it, 
 This is not the only way to do it, but I think it makes sense to organze the file structure as the example set up in the starter repo.  The order of the files does not seem to matter (at least from what I can tell) because it's all controlled by the SUMMARY.md file (more on that later), but I recommend it for your own sanity.
 
 #### How everything works together
-![all together](http://mrm-screen.s3.amazonaws.com/UsersMrMaksimizeCode_gitbooksgitbookstarterkit_20140707_091414_20140707_091554.png)
+
 All of the organization comes from the SUMMARY.md file.  The file structure does not matter as much as long the links in the SUMMARY.md file are correct.  The README.md file at the top of the repo (what you're reading now) acts the introduction to the book.  That's the only thing that's set as default.  Everything else can be controlled through the README file.
 
 #### Actually writing
