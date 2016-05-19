@@ -1,2 +1,2 @@
-# Brew #02: Chocolate Brown Ale
+# Brew 02: Chocolate Brown Ale
 
