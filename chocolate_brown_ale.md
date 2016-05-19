@@ -1,4 +1,4 @@
-## Chocolate Brown Ale
+# Brew 02: Chocolate Brown Ale
 
 **Initial temp (pre yeast):** 26 degrees
 
