@@ -47,3 +47,7 @@ Wednesday: 22 degrees
 Monday: 20 degrees / SG: 1.014
 
 Wednesday: 18 degrees / SG: 1.016
+
+Sunday: 16 degrees / SG: 1.016 / Bottle day
+
+**Bottled** Sunday 22nd May
