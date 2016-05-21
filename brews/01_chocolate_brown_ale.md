@@ -53,5 +53,5 @@ Sunday: 16 degrees / SG: 1.016 / Bottle day
 **Bottled** Sunday 22nd May
 
 Tasting notes: 
-Bitter / slightly burnt after taste, not nice bitter, but homebrew bitter.
-Probably due to high tempreture when  
+Bitter / slightly burnt after taste, not nice bitter, but home brew bitter.
+Probably due to high temperature when  
