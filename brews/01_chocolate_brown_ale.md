@@ -52,9 +52,9 @@ Sunday: 16 degrees / SG: 1.016 / Bottle day
 
 | Date | Temp | SG | Notes |
 | -- | -- | -- | -- |
-| Monday | 26 degrees | - | Added to bath |
-| Tuesday | 24 degrees | - | - |
-| Wednesday | 22 degrees | - | - |
+| Monday 8th May | 26 degrees | - | Added to bath |
+| Tuesday 9th May | 24 degrees | - | - |
+| Wednesday 10th May | 22 degrees | - | - |
 | Monday | 20 degrees | 1.014 | - |
 | Wednesday | 18 degrees | 1.016 | - |
 | Sunday 22nd May | 16 degrees | SG: 1.016 | Bottle day |
