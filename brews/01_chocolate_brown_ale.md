@@ -35,21 +35,6 @@
 
 **Progress:**
 
-Monday: 26 degrees **Added to bath**
-
-Tuesday: 24 degrees
-
-Wednesday: 22 degrees
-…
-
-Monday: 20 degrees / SG: 1.014
-
-Wednesday: 18 degrees / SG: 1.016
-
-Sunday: 16 degrees / SG: 1.016 / Bottle day
-
-
-
 | Date | Temp | SG | Notes |
 | -- | -- | -- | -- |
 | Sunday, 8th May | - | - | Brew Day |
