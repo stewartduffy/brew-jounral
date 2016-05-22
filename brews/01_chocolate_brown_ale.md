@@ -8,7 +8,7 @@
 * 1 x Jug ice + water
 * Tap water up to 23 litres
 
-**Instructions:**
+**Instructions / Process:**
 * [PDF](https://cdn.shopify.com/s/files/1/0195/8620/files/MJ_CRAFT_A4_ALES_INSTRUCTIONS.pdf?17187681017083048981)
 
 **Equipment:**
