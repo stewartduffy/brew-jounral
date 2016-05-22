@@ -6,17 +6,17 @@
 
 **Ingredients:**
 * [Mangrove Jacks Craft Series Brewery Pouch: Chocolate Brown Ale](http://mangrovejacks.com/collections/craft-series-brewery-pouch/products/mangrove-jacks-craft-series-nut-brown-ale-pouch)
-
-**Instructions:**
-* [PDF](https://cdn.shopify.com/s/files/1/0195/8620/files/MJ_CRAFT_A4_ALES_INSTRUCTIONS.pdf?17187681017083048981)
 * 2 x Jugs boiling water
 * 2 x litres fridge cold water
 * 1 x tray of Ice
 * 1 x Jug ice + water
 * Tap water up to 23 litres
 
-**Equipment:**
 
+**Instructions:**
+* [PDF](https://cdn.shopify.com/s/files/1/0195/8620/files/MJ_CRAFT_A4_ALES_INSTRUCTIONS.pdf?17187681017083048981)
+
+**Equipment:**
 * Glad wrap to cover bench
 * fish bin
 * spoon
