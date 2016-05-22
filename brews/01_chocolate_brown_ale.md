@@ -12,6 +12,8 @@
 * [PDF](https://cdn.shopify.com/s/files/1/0195/8620/files/MJ_CRAFT_A4_ALES_INSTRUCTIONS.pdf?17187681017083048981)
 
 **Equipment:**
+* Mangrove Jack's Cold Water Cleaner/Detergent
+* Mangrove Jack No Rinse Steriliser 
 * Glad wrap to cover bench
 * Fish bin
 * Measureing spoon, tbsp
