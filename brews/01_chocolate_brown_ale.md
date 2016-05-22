@@ -13,12 +13,13 @@
 
 **Equipment:**
 * Glad wrap to cover bench
-* fish bin
-* spoon
-* air lock
-* fermenter
-* kettle
-* big pot
+* Fish bin
+* Measureing spoon, tbsp
+* Stirring Spoon
+* Air lock
+* Fermenter
+* Kettle
+* Big pot
 * 1 x Small Measuring jug
 * 1 x Large Measuring jugs
 
