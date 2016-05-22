@@ -43,5 +43,6 @@
 | Wednesday, 11th May | 22 degrees | - | - | - |
 | Monday, 16th May | 20 degrees | 1.014 | - | - |
 | Wednesday, 18th May | 18 degrees | 1.016 | - | - |
-| Sunday, 22nd May | 16 degrees | SG: 1.016 | **Bottle day** | Bitter / slightly burnt after taste, not nice bitter, but homebrew bitter.
-Probably due to high temperature when starting the brew & missing brew enhancer. |
+| Sunday, 22nd May | 16 degrees | SG: 1.016 | **Bottle day** | 1 |
+
+1. Bitter / slightly burnt after taste, not nice bitter, but homebrew bitter. Probably due to high temperature when starting the brew & missing brew enhancer.
