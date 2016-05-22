@@ -34,7 +34,7 @@
 
 **Progress:**
 
-| Date | Temp | SG | Notes | Tasting Notes |
+| Date | Temp | Gravity | Notes | Tasting Notes |
 | -- | -- | -- | -- | -- |
 | Sunday, 8th May | 26 deg | 34 | **Brew Day** | - |
 | Monday, 9th May | 26 deg | - | Added to bath | - |
