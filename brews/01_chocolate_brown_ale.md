@@ -36,12 +36,12 @@
 
 | Date | Temp | SG | Notes | Tasting Notes |
 | -- | -- | -- | -- | -- |
-| Sunday, 8th May | - | - | **Brew Day** | - |
-| Monday, 9th May | 26 degrees | - | Added to bath | - |
-| Tuesday, 10th May | 24 degrees | - | - | - |
-| Wednesday, 11th May | 22 degrees | - | - | - |
-| Monday, 16th May | 20 degrees | 1.014 | - | - |
-| Wednesday, 18th May | 18 degrees | 1.016 | - | - |
-| Sunday, 22nd May | 16 degrees | SG: 1.016 | **Bottle day** | 1 |
+| Sunday, 8th May | 26 deg | 34 | **Brew Day** | - |
+| Monday, 9th May | 26 deg | - | Added to bath | - |
+| Tuesday, 10th May | 24 deg | - | - | - |
+| Wednesday, 11th May | 22 deg | - | - | - |
+| Monday, 16th May | 20 deg | 1.014 | - | - |
+| Wednesday, 18th May | 18 deg | 1.016 | - | - |
+| Sunday, 22nd May | 16 deg | SG: 1.016 | **Bottle day** | 1 |
 
 1. Bitter / slightly burnt after taste, not nice bitter, but homebrew bitter. Probably due to high temperature when starting the brew & missing brew enhancer.
