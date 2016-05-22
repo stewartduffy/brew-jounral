@@ -13,7 +13,7 @@
 
 **Equipment:**
 * Mangrove Jack's Cold Water Cleaner/Detergent
-* Mangrove Jack No Rinse Steriliser 
+* Brewcraft No Rinse Steriliser 
 * Glad wrap to cover bench
 * Fish bin
 * Measureing spoon, tbsp
@@ -21,10 +21,8 @@
 * Air lock
 * Fermenter
 * Kettle
-* Big pot
-* 1 x Small Measuring jug
-* 1 x Large Measuring jugs
-
+* 1 x 5l Measuring jug
+ 
 **Notes:**
 * A few mistakes here. Didn't have all the gear out & ready (big pot, other measuring jug), which made me have to rush.
 * Added too much boiling water, and I could not get beer below 26 degrees.
