@@ -19,7 +19,8 @@
 * fermenter
 * kettle
 * big pot
-* 2 x Measuring jugs
+* 1 x Small Measuring jug
+* 1 x Large Measuring jugs
 
 **Notes:**
 * A few mistakes here. Didn't have all the gear out & ready (big pot, other measuring jug), which made me have to rush.
