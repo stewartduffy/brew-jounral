@@ -2,6 +2,7 @@
 
 **Ingredients:**
 * [Mangrove Jacks Craft Series Brewery Pouch: Chocolate Brown Ale](http://mangrovejacks.com/collections/craft-series-brewery-pouch/products/mangrove-jacks-craft-series-nut-brown-ale-pouch)
+*  Mangrove Jack’s Brew Enhancer
 * 2 x Jugs boiling water
 * 2 x litres fridge cold water
 * 1 x tray of Ice
