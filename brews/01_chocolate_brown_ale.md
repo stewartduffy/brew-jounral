@@ -37,16 +37,13 @@
 
 | Date | Temp | SG | Notes |
 | -- | -- | -- | -- |
-| Sunday, 8th May | - | - | Brew Day |
+| Sunday, 8th May | - | - | **Brew Day** |
 | Monday, 9th May | 26 degrees | - | Added to bath |
 | Tuesday, 10th May | 24 degrees | - | - |
 | Wednesday, 11th May | 22 degrees | - | - |
 | Monday, 16th May | 20 degrees | 1.014 | - |
 | Wednesday, 18th May | 18 degrees | 1.016 | - |
-| Sunday, 22nd May | 16 degrees | SG: 1.016 | Bottle day |
-
-
-**Bottled** Sunday 22nd May
+| Sunday, 22nd May | 16 degrees | SG: 1.016 | **Bottle day** |
 
 Tasting notes: 
 Bitter / slightly burnt after taste, not nice bitter, but homebrew bitter.
