@@ -25,7 +25,6 @@
 * big pot
 * 2 x Measuring jugs
 
-
 **Notes:**
 * A few mistakes here. Didn't have all the gear out & ready (big pot, other measuring jug), which made me have to rush.
 * Added too much boiling water, and I could not get beer below 26 degrees.
