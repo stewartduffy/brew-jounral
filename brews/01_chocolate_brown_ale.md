@@ -1,9 +1,5 @@
 # 01: Chocolate Brown Ale
 
-**Initial temp (pre yeast):** 26 degrees
-
-**Initial gravity: 34**
-
 **Ingredients:**
 * [Mangrove Jacks Craft Series Brewery Pouch: Chocolate Brown Ale](http://mangrovejacks.com/collections/craft-series-brewery-pouch/products/mangrove-jacks-craft-series-nut-brown-ale-pouch)
 * 2 x Jugs boiling water
@@ -36,7 +32,7 @@
 
 | Date | Temp | Gravity | Notes | Tasting Notes |
 | -- | -- | -- | -- | -- |
-| Sunday, 8th May | 26 deg | 34 | **Brew Day** | - |
+| Sunday, 8th May | 26 deg (pre yeast) | 34 | **Brew Day** | - |
 | Monday, 9th May | 26 deg | - | Added to bath | - |
 | Tuesday, 10th May | 24 deg | - | - | - |
 | Wednesday, 11th May | 22 deg | - | - | - |
