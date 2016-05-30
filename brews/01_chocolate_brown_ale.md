@@ -43,6 +43,9 @@
 | Monday, 16th May | 20 deg | 1.014 | - | - |
 | Wednesday, 18th May | 18 deg | 1.016 | - | - |
 | Sunday, 22nd May | 16 deg | SG: 1.016 | **Bottle day** | 1 |
+| Monday, 30th May | - | - | **1 week post bottle** | 2 |
+
 
 **Tasting Notes**
 1. Bitter / slightly burnt after taste, not nice bitter, but homebrew bitter. Probably due to high temperature when starting the brew & missing brew enhancer.
+2. No fizz after opening bottle. Less bitter, but quite syrupy. Not right.
